@@ -1,0 +1,1 @@
+7_segment_project_from_scratch\startup_stm32f103xb.o: startup_stm32f103xb.s
